@@ -1,4 +1,4 @@
-public class TipeDataKarakter {
+public class TipeDataCharacter {
     public static void main(String[] args) {
         char characterG = 'G';
         char characterI = 'I';
@@ -6,5 +6,7 @@ public class TipeDataKarakter {
         char characterR = 'R';
         System.out.println(characterG);
         System.out.println(characterI);
+        System.out.println(characterO);
+        System.out.println(characterR);
     }
 }
